@@ -2,7 +2,7 @@
 
 * What do you think about web standards? Are they good or bad?
 
-** I think web standards are good. By having web standards in place, there is consistency when it comes to HMTL and CSS. Without standards, everyone would be doing things differently. Also, having standards helps with the problem of pages looking different on different devices.**
+**I think web standards are good. By having web standards in place, there is consistency when it comes to HMTL and CSS. Without standards, everyone would be doing things differently. Also, having standards helps with the problem of pages looking different on different devices.**
 
 * Does the standard structure make sense to you? Why or why not?
 
