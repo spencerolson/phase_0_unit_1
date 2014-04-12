@@ -51,4 +51,4 @@
 
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?
 
-	**The 'lowest hanging fruit' is to optimize images. By doing this, we can eliminate 207.7KiB of data (14% reduction)**
+	**The 'lowest hanging fruit' is to optimize images. By doing this, we can eliminate 207.7KiB of data (14% reduction).**
