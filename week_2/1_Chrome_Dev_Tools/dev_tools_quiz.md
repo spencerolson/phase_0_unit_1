@@ -47,7 +47,7 @@
   
   * Explain how you would find out this information, and list the URL of offending image here and how big it is.
   
-  	**You can find the largest image by going to the 'Network' tab, refreshing your page, and sorting by Size. The URL for the offending image is http://s7.addthis.com/static/btn/v2/lg-share-en.gif and the file size is 321B. **
+  	**You can find the largest image by going to the 'Network' tab, refreshing your page, and sorting by Size. The URL for the offending image is http://s7.addthis.com/static/btn/v2/lg-share-en.gif and the file size is 321B.**
 
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?
 
