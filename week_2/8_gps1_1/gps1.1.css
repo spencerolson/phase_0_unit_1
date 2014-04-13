@@ -1,1 +1,37 @@
-/* include your css here */
+      body {
+        font-family: Helvetica, Tahoma;
+        background-color: #FF4D31;
+        min-width: 700px;
+      }
+      .box {
+        border-style: solid;
+        border-color: black;
+      }
+
+      #definitionbox {
+      	background-color: #CCFF4A;
+      }
+      
+      #driverbox {
+        margin: 5px 0px; 
+        float: left; 
+        width: 49%; 
+        height: 175px; 
+        color: white;
+        background-color: #1951B2;
+      }
+
+      #navigatorbox {
+        margin: 5px 0px; 
+        float: right; 
+        width: 49%; 
+        height: 175px; 
+        color: white;
+        background-color: #1951B2;
+      }
+
+      #whybox {
+      	background-color: green;
+      	clear: both;
+      }
+  
