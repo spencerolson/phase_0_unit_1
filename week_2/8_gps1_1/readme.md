@@ -4,13 +4,13 @@
 
 **DO NOT LOOK AT THIS CHALLENGE UNTIL YOUR FIRST GUIDED PAIRING SESSION!!**
 
-#### Learning Objectives
+#### Learning Competencies
   - Use HTML tags to place content on a website
   - Apply CSS to position elements on an HTML page
   - Compare different HTML tags to one another
   - Examine pair-programming concepts
 
-#### Purpose
+#### Summary
   Welcome to your first Guided Pairing Session (GPS!)
   We are excited to have you in Phase 0 and to work with
   you to get you prepared for an exciting time at DBC. 
@@ -48,7 +48,6 @@
      time? Did you enjoy it? What worked? What didn't work? Add that
      to your page and style it as well. 
 
-When you are finished, copy your code into the two files. Make sure your css 
-from the `<style>` section is in the CSS file and remove it from the HTML section. 
-Update your gist. Then, test that everything is still  working by saving them 
+When you are finished, copy your code into the [gps1.1.css](gps1.1.css) and [gps1.1.html](gps1.1.html) files. Make sure your css from the `<style>` section is in the CSS file and remove it from the HTML section. 
+Update the html file. Then, test that everything is still  working by saving them 
 and running them together from your computer. 

@@ -1,13 +1,13 @@
 # U1.W1: Get to know your group
 
 
-## Learning Objectives
+## Learning Competencies
 - Introduce yourself to your accountability group
 - Describe what you learned from someone else's reflections
 - Consider strategies for time management and productivity
 - Design a plan for getting work done during Phase 0
 
-## Purpose
+## Summary
 
 Despite popular belief, most software engineers work in teams and there is a strong developer community (on the web and locally) for many technologies, including HTML, CSS, JavaScript, and Ruby.  It's important to get used to sharing with each other.
 

@@ -3,12 +3,12 @@
 # U1.W2: Your website (Solo Challenge)
 
 
-## Learning Objectives
+## Learning Competencies
 - Illustrate your understanding of web design and user experience in your website
 - Describe and practice process of building a website
 
 
-## Background
+## Summary
 
 **THIS IS YOUR SOLO CHALLENGE FOR WEEK 2.** Please reference the [Phase 0 Handbook](https://github.com/Devbootcamp/phase_0_handbook/) for more details as to what this entails. 
 

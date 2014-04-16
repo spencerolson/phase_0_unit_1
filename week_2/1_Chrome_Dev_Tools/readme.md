@@ -2,14 +2,14 @@
 
 # U1.W2: Chrome Dev Tools  
 
-## Learning Objectives
+## Learning Competencies
 - Navigate and edit a web page's HTML and CSS elements using the inspector
 - Explain what the DOM is and how it relates to CSS and HTML 
 - Identify images and other page elements that cause slow performance
 - Use Chrome Devtools to manipulate elements on the DOM
 
 
-## Background
+## Summary
 Before starting this challenge, you will want to do a bit of research on the DOM. Read the following Resources before beginning. 
 - [What's the DOM?](https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference/Introduction)
 - [DOM](http://skillcrush.com/2012/10/17/dom-document-object-model/)
@@ -27,7 +27,7 @@ Focus on chapters 1,2, and 5.  Follow along with the video, and take the quizzes
 Take the time to skim the other chapters.  You'll be diving into JavaScript next week, and although the material covering JS (chapters 3 and 4) is a bit advanced, it provides great exposure to JavaScript in the context of the the DevTools console.
 
 
-2. Complete the [Dev Tools Quiz](dev_tools_quiz.md). Take a screenshot of your code school points (They appear on the right of your Code School profile page), upload it to a public image sharing site (like min.us), and include the image in your gist.  
+2. Complete the [Dev Tools Quiz](dev_tools_quiz.md). Take a screenshot of your code school points (They appear on the right of your Code School profile page), upload it to a public image sharing site (like min.us), and include the image in the [dev_tools_quiz.md](dev_tools_quiz.md) file.  
 
 
 3. Experiment

@@ -2,7 +2,7 @@
 
 # U1.W3: Create Your Own Code Combat Mission!
 
-## Learning Objectives
+## Learning Competencies
 1. Define local variables in JavaScript
 2. Create, add properties to, delete properties from, and access values from JavaScript Object literals
 3. BONUS: Integrate HTML, CSS, and JavaScript to display and manipulate objects
@@ -10,6 +10,11 @@
 
 ## Directions
 You now have some practice with JavaScript so let's get creative with it. In this challenge, you are not expected to create a real, working mission on Code Combat, rather, we want you to have fun thinking up a simple mission and make some basic objects and functions to manipulate those objects. You don't need to visit Code Combat to do this, just write out your solution in the `my_solution.js` file. The end is up to you. 
+
+Here are some tips for how to think up this challenge. 
+1. Create a couple objectives (refer to the code combat mission objectives to tailor these to your mission)
+2. Hover over the `this` in the code section of any mission. What is it referring to? An object? A function? What kinds of attributes do you want to add to your objects? Create your objects in JavaScript
+3. Think of the methods that are necessary to manipulate your objects and add them to your objects.  
 
 When you feel finished, you should edit your gist with each section and be done. It's difficult to know when you are finished with a project, so we want to reiterate that it's up to you how much you want to do with this project. If you are having fun, keep working and solidifying your understanding. If you're bored and feel like you've gotten enough out of it, it's good to be finished. 
 
