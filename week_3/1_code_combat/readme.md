@@ -30,8 +30,16 @@ Translate your pseudocode into code and see if it achieves the goals. If it does
 ###3. Answer the following:
 When you are finished with all of the levels, answer the following questions. You may want to look at some resources on JavaScript before answering.
   - What is `this` referring to? Think programming-wise rather than in the terms of the game. 
+  
+  ***This* is referring to the 'owner' of the object we're in. In short, it refers to the object we're currently working with and allows the object to examine itself.** 
+  
   - What does the `()` do in JavaScript?
+  
+  **When () is used with JavaScript native objects, it calls the built in constructor. Or, if you've defined your own object with a constructor that takes no parameters, then using () will call the built in constructor**
+  
   - What is the point of the semicolons?
+  
+  **From what I undestand, the semicolons parse the code, or 'break it up' into pieces to be run separately. So, it will run the code in between semicolons in 'chunks'.**
 
 ## Reflect
 In the reflection section of your 'my_solution.js` file, reflect on your learning. Use the [reflection guidelines](../reflection_guidelines.md).. ***NOTE: Reflections are mandatory!***
