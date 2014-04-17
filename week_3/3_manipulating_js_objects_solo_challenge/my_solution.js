@@ -12,33 +12,44 @@ var terah = {
   hairColor: "brown",
   eyeColor: "brown"
 }
+
+
 /* Pseudocode Section - write pseudocode for each challenge below.
 1. Define a variable adam and use object literal notation to assign this variable 
    the value of a JavaScript Object object with no properties.
+   //create a new Object called adam
 
 2. Give adam a name property with the value "Adam".
+  //Instead of created adam with no properties, create adam with a name property with corresponding value "Adam"
 
 3. Add a spouse property to terah and assign it the value of adam.
-
+  //Add spouse: adam to our terah variable. Make sure you assign the object adam, not the String "Adam" to spouse.
 4. Change the value of the terah weight property to 125.
-
+  //Change terah's weight to 125
 5. Remove the eyeColor property from terah.
-
+  //Delete the eyeColor property from terah
 6. Add a spouse property to adam and assign it the value of terah.
+  //Make the spouse property of adam terah, using the same technique you used to make adam terah's spouse
 
 7. Add a children property to terah and and use object literal notation to assign 
    this variable the value of a JavaScript Object object with no properties
+   //Add a children property to terah, and make its value an Object with no properties.
 
 8. Add a carson property to the value of the terah children property and assign it 
   the value of an object with the property name with a value of "Carson".
+  //add a carson property to terah's children property. The corresponding value should be an object named carson with a name property of "Carson"
 
 9. Add a carter property to the value of the terah children property and assign it 
    the value of an object with the property name with a value of "Carter".
+   //Add a carter proprety to terah's children property. 
+   //Add a property titled name with value "Carter".
 
 10. Add a colton property to the value of the terah children property and assign it 
     the value of an object with the property name with a value of "Colton".
-
+    //Add a colton proprety to terah's children property. 
+    //Add a property titled name with value "Colton".
 11. Add a children property to adam and assign it the value of terah children.
+    //Assign adam's children property to terah's children property
 
 
 */
@@ -46,10 +57,20 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
+//var adam = {};
+var adam = {name: "Adam"}; //changed adam to include name: "Adam"
+terah.spouse = adam;
+terah.weight = 125;
+delete terah.eyeColor;
+adam.spouse = terah;
+terah.children = {carson: carson = {name:"Carson"}};
+terah.children.carter = {name: "Carter"};
+terah.children.colton = {name: "Colton"};
+adam.children = terah.children;
 
-
-
-
+//Refactored Code
+//I did not refactor my code for this exercise, since I did a good amount of research while I was writing it.
+//I tried my best to be efficient and do commands in one line if possible.
 
 
 
