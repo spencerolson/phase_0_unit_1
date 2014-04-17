@@ -36,12 +36,12 @@
 // __________________________________________
 // Write your code below.
 
-var secretNumber = 2;
-secretNumber = 7;
-var password = "Rosie O'Donnell";
-password = "just open the door";
-var allowedIn = true;
-allowedIn = false;
+//var secretNumber = 2;
+var secretNumber = 7; //changed secret number to equal 7
+//var password = "Rosie O'Donnell";
+var password = "just open the door"; //changed password to 'just open the door'
+//var allowedIn = true;
+var allowedIn = false; //changed allowedIn to false
 var members = [];
 members[0] = "John";
 members[3] = "Mary";
@@ -50,9 +50,10 @@ members[3] = "Mary";
 
 // __________________________________________
 // Refactored Code: Include a refactored version (or justification of your original code) here. 
+var secretNumber = 7;
 var password = "just open the door";
 var allowedIn = false;
-var members = ["John"];
+var members = ["John"]; //changed from original code. Instead of created a blank array and then adding "John", I now create the array and at the same time add "John" as the first element
 members[3] = "Mary";
 
 
