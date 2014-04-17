@@ -2,7 +2,7 @@
 
 #### A quick refresh on primitives
 
-Programming languages provide a set of *primitive* or *basic* data types as building blocks.  Most language also have more complex types that are built from these basic types.  Numbers and strings are the two main basic data types in JavaScript, as they are in Ruby.
+Programming languages provide a set of *primitive* or *basic* data types as building blocks.  Most languages also have more complex types that are built from these basic types.  Numbers and strings are the two main basic data types in JavaScript, as they are in Ruby.
 
 We'll go through the basic types and translate what we've already learned about Ruby into JavaScript.
 
@@ -11,6 +11,7 @@ We'll go through the basic types and translate what we've already learned about 
 Unlike Ruby, which differentiates between integers and floating point numbers, JavaScript only defines the `number` data type. In other words, all numbers in JavaScript are floating-point, even if they are not written with a decimal.
 
 Enter these into the browser console one line at a time to see how they work:
+
 
 ```javascript
 5
