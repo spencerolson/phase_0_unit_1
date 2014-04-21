@@ -171,15 +171,21 @@ hero.attack();
 // Refactored Code
 
 
-
+//I did not refactor my code, because I was basically refactoring it as I was writing it. If I thought a variable name was confusing or I was doing something inefficiently, then I would go back and fix the issue. I'm sure my code is not 100% as efficient or beautiful as it could be, but I basically knew nothing about JavaScript before doing this challenge and now I feel like I'm beginning to get a grasp.
 
 
 
 // Reflection
 // 
+// What parts of your strategy worked? What problems did you face?
+// What questions did you have while coding? What resources did you find to help you answer them?
+// What concepts are you having trouble with, or did you just figure something out? If so, what?
+// Did you learn any new skills or tricks?
+// How confident are you with each of the Learning Competencies?
+// Which parts of the challenge did you enjoy?
+// Which parts of the challenge did you find tedious?
 // 
-// 
-// 
+// I tried my best to divide this challenge into many small tasks, since it was a pretty overwhelming project as a whole. I think this worked well. One of the first problems I faced was how to correctly display the gameboard to the user. I ended up using a nested for statement, which worked out pretty well for me. I also had trouble when trying to reference this.location within my hero variable. Instead, I had to make a separate function, outside of my hero variable, that returned the location coords. I'm still not completely sure why I had to do this, so it's something I may want to look into next week to see if I can get any answers. I didn't learn any specific 'tricks' during this challenge but I definitely learned a TON about JavaScript while doing this challenge. I really enjoyed this challenge because it allowed me to use my creativity to do any type of project I pleased. And...i got to create a game which is pretty cool! I was able to get the game functioning as well which was pretty awesome. In the future, I'd like to be able to alter the code so that I can prompt the user for an action, e.g. move up, move down, attack.
 // 
 // 
 // 
