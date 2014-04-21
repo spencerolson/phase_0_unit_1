@@ -77,9 +77,15 @@ adam.children = terah.children;
 // __________________________________________
 // Reflection: Use the reflection guidelines
 // 
+// What parts of your strategy worked? What problems did you face?
+// What questions did you have while coding? What resources did you find to help you answer them?
+// What concepts are you having trouble with, or did you just figure something out? If so, what?
+// Did you learn any new skills or tricks?
+// How confident are you with each of the Learning Competencies?
+// Which parts of the challenge did you enjoy?
+// Which parts of the challenge did you find tedious?
 // 
-// 
-// 
+// This challenge started off really well for me, and then I hit a snag when trying to create the child property. It took me a while to realize that I can add a property AND give it a value at the same time. Once I had that 'aha' moment, it was pretty much smooth sailing.I learned the delete keyword while doing this challenge -- I did not know about it before. I googled how to delete a property, and found a stack overflow article that explained it. I feel confident with the Learning Competencies. I really enjoyed the process of tackling each assertion, 1 by 1. This process is much better than trying to solve a giant problem all at once.
 // 
 // 
 
